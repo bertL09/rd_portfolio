@@ -1,0 +1,6 @@
+.gallery-header{
+    display: flex;
+    font-size: 3rem;
+    justify-content: center;
+    margin: 10px;
+}

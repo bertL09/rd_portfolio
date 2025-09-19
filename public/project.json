@@ -1,139 +1,277 @@
 [
   {
-    "slug": "work-project-1",
+    "slug": "Drawing-And-Painting",
     "images": [
-      "linear-gradient(135deg, #ff9a9e, #fad0c4)",
-      "linear-gradient(135deg, #a18cd1, #fbc2eb)",
-      "linear-gradient(135deg, #f6d365, #fda085)",
-      "linear-gradient(135deg, #84fab0, #8fd3f4)",
-      "linear-gradient(135deg, #fccb90, #d57eeb)"
+      "images/artBeyondScreen/drawningPainting/IMG_20140809_141319117.jpg",
+      "images/artBeyondScreen/sculpturesFromTheShoreline/IMG_20200509_110803115_HDR.jpg",
+      "images/artBeyondScreen/drawningPainting/IMG_20150703_095955702.jpg",
+      "images/artBeyondScreen/drawningPainting/IMG_20150704_105814114.jpg",
+      "images/artBeyondScreen/drawningPainting/IMG_20150704_163549142.jpg",
+      "images/artBeyondScreen/drawningPainting/IMG_20150708_194632822.jpg",
+      "images/artBeyondScreen/drawningPainting/IMG_20150929_182242082.jpg",
+      "images/artBeyondScreen/drawningPainting/IMG_20151124_100853710.jpg",
+      "images/artBeyondScreen/drawningPainting/IMG_20170225_150420.jpg",
+      "images/artBeyondScreen/drawningPainting/IMG_5513.jpg",
+      "images/artBeyondScreen/drawningPainting/IMG_5514.jpg",
+      "images/artBeyondScreen/drawningPainting/IMG_5516.jpg",
+      "images/artBeyondScreen/drawningPainting/IMG_5537.jpg",
+      "images/artBeyondScreen/drawningPainting/IMG_5539.jpg",
+      "images/artBeyondScreen/drawningPainting/IMG_5540.jpg",
+      "images/artBeyondScreen/drawningPainting/IMG_5541.jpg",
+      "images/artBeyondScreen/drawningPainting/IMG_5542.jpg",
+      "images/artBeyondScreen/drawningPainting/IMG_5543.jpg"
     ],
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam."
+    "description": "Lorem ipsum dolor sit amet..."
   },
   {
-    "slug": "work-project-2",
+    "slug": "Photography",
     "images": [
-      "linear-gradient(135deg, #84fab0, #8fd3f4)",
-      "linear-gradient(135deg, #fccb90, #d57eeb)",
-      "linear-gradient(135deg, #ffecd2, #fcb69f)",
-      "linear-gradient(135deg, #a1c4fd, #c2e9fb)",
-      "linear-gradient(135deg, #667eea, #764ba2)",
-      "linear-gradient(135deg, #89f7fe, #66a6ff)"
+      "images/artBeyondScreen/photography/IMG_2998.jpg",
+      "images/artBeyondScreen/photography/IMG_3289.jpg",
+      "images/artBeyondScreen/photography/IMG_3290.jpg",
+      "images/artBeyondScreen/photography/IMG_3718.jpg",
+      "images/artBeyondScreen/photography/IMG_3985.jpg",
+      "images/artBeyondScreen/photography/IMG_4285.jpg",
+      "images/artBeyondScreen/photography/IMG_4292.jpg",
+      "images/artBeyondScreen/photography/IMG_4297.jpg",
+      "images/artBeyondScreen/photography/IMG_4304.jpg",
+      "images/artBeyondScreen/photography/IMG_5473.jpg",
+      "images/artBeyondScreen/photography/IMG_9844.jpg",
+      "images/artBeyondScreen/photography/nd-druk.jpg"
     ],
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi."
+    "description": "Lorem ipsum dolor sit amet..."
   },
   {
-    "slug": "work-project-3",
+    "slug": "Sculptures-From-The-Shorline",
     "images": [
-      "linear-gradient(135deg, #f6d365, #fda085)",
-      "linear-gradient(135deg, #fbc2eb, #a6c1ee)",
-      "linear-gradient(135deg, #84fab0, #8fd3f4)",
-      "linear-gradient(135deg, #667eea, #764ba2)",
-      "linear-gradient(135deg, #ff9a9e, #fecfef)"
+      "images/artBeyondScreen/sculpturesFromTheShoreline/IMG_20190427_083905.jpg",
+      "images/artBeyondScreen/sculpturesFromTheShoreline/IMG_20190427_083922.jpg",
+      "images/artBeyondScreen/sculpturesFromTheShoreline/IMG_20190506_205953_907.jpg",
+      "images/artBeyondScreen/sculpturesFromTheShoreline/IMG_20190825_091524.jpg",
+      "images/artBeyondScreen/sculpturesFromTheShoreline/IMG_20191006_181655944.jpg",
+      "images/artBeyondScreen/sculpturesFromTheShoreline/IMG_20191015_202101057.jpg",
+      "images/artBeyondScreen/sculpturesFromTheShoreline/IMG_20191120_203517109.jpg",
+      "images/artBeyondScreen/sculpturesFromTheShoreline/IMG_20191212_135740425.jpg",
+      "images/artBeyondScreen/sculpturesFromTheShoreline/IMG_20200129_202443_444.jpg",
+      "images/artBeyondScreen/sculpturesFromTheShoreline/IMG_20200509_105700258_PORTRAIT.jpg",
+      "images/artBeyondScreen/sculpturesFromTheShoreline/IMG_20200509_110453666_HDR.jpg",
+      "images/artBeyondScreen/sculpturesFromTheShoreline/IMG_20200509_110803115_HDR.jpg",
+      "images/artBeyondScreen/sculpturesFromTheShoreline/IMG_20200727_123547130.jpg",
+      "images/artBeyondScreen/sculpturesFromTheShoreline/IMG_20200727_124023550_HDR.jpg",
+      "images/artBeyondScreen/sculpturesFromTheShoreline/IMG_20200808_131114039.jpg",
+      "images/artBeyondScreen/sculpturesFromTheShoreline/IMG_20200808_131330679.jpg",
+      "images/artBeyondScreen/sculpturesFromTheShoreline/IMG_20200808_141908376_HDR.jpg",
+      "images/artBeyondScreen/sculpturesFromTheShoreline/IMG_20210819_171700671.jpg",
+      "images/artBeyondScreen/sculpturesFromTheShoreline/IMG_20210819_171819075.jpg",
+      "images/artBeyondScreen/sculpturesFromTheShoreline/IMG_20210819_171947782.jpg",
+      "images/artBeyondScreen/sculpturesFromTheShoreline/IMG_20210819_172049136.jpg",
+      "images/artBeyondScreen/sculpturesFromTheShoreline/IMG_20210819_172335465.jpg",
+      "images/artBeyondScreen/sculpturesFromTheShoreline/IMG_20210819_172508755.jpg",
+      "images/artBeyondScreen/sculpturesFromTheShoreline/IMG_20220724_120144_261.jpg",
+      "images/artBeyondScreen/sculpturesFromTheShoreline/IMG_5847.jpg",
+      "images/artBeyondScreen/sculpturesFromTheShoreline/IMG_5853.jpg",
+      "images/artBeyondScreen/sculpturesFromTheShoreline/IMG_5856.jpg",
+      "images/artBeyondScreen/sculpturesFromTheShoreline/WB2_3.jpg"
     ],
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede."
+    "description": "Lorem ipsum dolor sit amet..."
   },
   {
-    "slug": "work-project-4",
+    "slug": "logo-torbolandia",
     "images": [
-      "linear-gradient(135deg, #fbc2eb, #a6c1ee)",
-      "linear-gradient(135deg, #fccb90, #d57eeb)",
-      "linear-gradient(135deg, #f6d365, #fda085)",
-      "linear-gradient(135deg, #89f7fe, #66a6ff)",
-      "linear-gradient(135deg, #84fab0, #8fd3f4)"
+      "images/design/logoTorbolandia/Artboard_1.png"
     ],
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent dapibus, neque id cursus faucibus, tortor neque egestas auguae, eu vulputate magna eros eu erat."
+    "description": "Lorem ipsum dolor sit amet..."
   },
   {
-    "slug": "work-project-5",
+    "slug": "Press-Advertisements",
     "images": [
-      "linear-gradient(135deg, #667eea, #764ba2)",
-      "linear-gradient(135deg, #f6d365, #fda085)",
-      "linear-gradient(135deg, #fbc2eb, #a6c1ee)",
-      "linear-gradient(135deg, #84fab0, #8fd3f4)",
-      "linear-gradient(135deg, #ffecd2, #fcb69f)",
-      "linear-gradient(135deg, #89f7fe, #66a6ff)",
-      "linear-gradient(135deg, #a1c4fd, #c2e9fb)"
+      "images/design/pressAdvertisements/6.jpg",
+      "images/design/pressAdvertisements/7.jpg",
+      "images/design/pressAdvertisements/8.jpg",
+      "images/design/pressAdvertisements/salmo-12-2014.jpg",
+      "images/design/pressAdvertisements/Salmo-25-Anniwersary.jpg",
+      "images/design/pressAdvertisements/Salmo-CrakksNotDead.jpg",
+      "images/design/pressAdvertisements/Salmo-FreeDiver-04-2015-final.jpg",
+      "images/design/pressAdvertisements/Salmo-LilBug-05-2014.jpg",
+      "images/design/pressAdvertisements/Salmo-rattlin-12-2015.jpg",
+      "images/design/pressAdvertisements/Salmo-SS-1.jpg",
+      "images/design/pressAdvertisements/salmo-vampire-09-2013.jpg",
+      "images/design/pressAdvertisements/SalmoTTW-2013-5.jpg",
+      "images/design/pressAdvertisements/SalmoTTW-2016.jpg"
     ],
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce vel dui. Vivamus aliquet elit ac nisl. Quisque id odio."
+    "description": "Lorem ipsum dolor sit amet..."
   },
   {
-    "slug": "work-project-6",
+    "slug": "Product-Catalog-2011",
     "images": [
-      "linear-gradient(135deg, #ff9a9e, #fad0c4)",
-      "linear-gradient(135deg, #84fab0, #8fd3f4)",
-      "linear-gradient(135deg, #fbc2eb, #a6c1ee)",
-      "linear-gradient(135deg, #fccb90, #d57eeb)",
-      "linear-gradient(135deg, #ffecd2, #fcb69f)"
+      "images/design/productCatalog2011/Salmo-katalog-2011-okladka.jpg",
+      "images/design/productCatalog2011/Salmo-katalog-20112.jpg",
+      "images/design/productCatalog2011/Salmo-katalog-201123.jpg",
+      "images/design/productCatalog2011/Salmo-katalog-201129.jpg",
+      "images/design/productCatalog2011/Salmo-katalog-20113.jpg",
+      "images/design/productCatalog2011/Salmo-katalog-201131.jpg",
+      "images/design/productCatalog2011/Salmo-katalog-201134.jpg",
+      "images/design/productCatalog2011/Salmo-katalog-20114.jpg",
+      "images/design/productCatalog2011/Salmo-katalog-201145.jpg",
+      "images/design/productCatalog2011/Salmo-katalog-201146.jpg",
+      "images/design/productCatalog2011/Salmo-katalog-20115.jpg",
+      "images/design/productCatalog2011/Salmo-katalog-20116.jpg"
     ],
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer imperdiet lectus quis justo. Curabitur suscipit suscipit tellus."
+    "description": "Lorem ipsum dolor sit amet..."
   },
   {
-    "slug": "outside-project-1",
+    "slug": "Product-Catalog-2013",
     "images": [
-      "linear-gradient(135deg, #89f7fe, #66a6ff)",
-      "linear-gradient(135deg, #ff6a00, #ee0979)",
-      "linear-gradient(135deg, #a1c4fd, #c2e9fb)",
-      "linear-gradient(135deg, #667eea, #764ba2)",
-      "linear-gradient(135deg, #f6d365, #fda085)"
+      "images/design/productCatalog2013/Salmo-katalog-2013.jpg",
+      "images/design/productCatalog2013/Salmo-katalog-201311.jpg",
+      "images/design/productCatalog2013/Salmo-katalog-201319.jpg",
+      "images/design/productCatalog2013/Salmo-katalog-201322.jpg",
+      "images/design/productCatalog2013/Salmo-katalog-201323.jpg",
+      "images/design/productCatalog2013/Salmo-katalog-201324.jpg",
+      "images/design/productCatalog2013/Salmo-katalog-201325.jpg",
+      "images/design/productCatalog2013/Salmo-katalog-201334.jpg",
+      "images/design/productCatalog2013/Salmo-katalog-201335.jpg",
+      "images/design/productCatalog2013/Salmo-katalog-201339.jpg",
+      "images/design/productCatalog2013/Salmo-katalog-20138.jpg",
+      "images/design/productCatalog2013/Salmo2013-1.jpg"
     ],
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium."
+    "description": "Lorem ipsum dolor sit amet..."
   },
   {
-    "slug": "outside-project-2",
+    "slug": "Product-Catalog-2014",
     "images": [
-      "linear-gradient(135deg, #00c6ff, #0072ff)",
-      "linear-gradient(135deg, #f7971e, #ffd200)",
-      "linear-gradient(135deg, #ff9a9e, #fecfef)",
-      "linear-gradient(135deg, #fbc2eb, #a6c1ee)",
-      "linear-gradient(135deg, #84fab0, #8fd3f4)",
-      "linear-gradient(135deg, #fccb90, #d57eeb)"
+      "images/design/productCatalog2014/2014_1.jpg",
+      "images/design/productCatalog2014/2014_2.jpg",
+      "images/design/productCatalog2014/2014_3.jpg",
+      "images/design/productCatalog2014/2014_4.jpg",
+      "images/design/productCatalog2014/Salmo-katalog-2014-okladka.jpg",
+      "images/design/productCatalog2014/Salmo-katalog-2014.jpg",
+      "images/design/productCatalog2014/Salmo-katalog-201423.jpg",
+      "images/design/productCatalog2014/Salmo-katalog-201426.jpg",
+      "images/design/productCatalog2014/Salmo-katalog-201427.jpg",
+      "images/design/productCatalog2014/Salmo-katalog-201431.jpg",
+      "images/design/productCatalog2014/Salmo-katalog-201436.jpg",
+      "images/design/productCatalog2014/Salmo-katalog-201437.jpg",
+      "images/design/productCatalog2014/Salmo-katalog-20144.jpg",
+      "images/design/productCatalog2014/Salmo-katalog-20145.jpg",
+      "images/design/productCatalog2014/Salmo-katalog-20148.jpg"
     ],
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit."
+    "description": "Lorem ipsum dolor sit amet..."
   },
   {
-    "slug": "outside-project-3",
+    "slug": "Product-Catalog-2015",
     "images": [
-      "linear-gradient(135deg, #ffecd2, #fcb69f)",
-      "linear-gradient(135deg, #667eea, #764ba2)",
-      "linear-gradient(135deg, #f6d365, #fda085)",
-      "linear-gradient(135deg, #a1c4fd, #c2e9fb)",
-      "linear-gradient(135deg, #84fab0, #8fd3f4)"
+      "images/design/productCatalog2015/Katalog-2015-ok.jpg",
+      "images/design/productCatalog2015/Katalog-2015-ok12.jpg",
+      "images/design/productCatalog2015/Katalog-2015-ok14.jpg",
+      "images/design/productCatalog2015/Katalog-2015-ok16.jpg",
+      "images/design/productCatalog2015/Katalog-2015-ok20.jpg",
+      "images/design/productCatalog2015/Katalog-2015-ok23.jpg",
+      "images/design/productCatalog2015/Katalog-2015-ok26.jpg",
+      "images/design/productCatalog2015/Katalog-2015-ok27.jpg",
+      "images/design/productCatalog2015/Katalog-2015-ok29.jpg",
+      "images/design/productCatalog2015/Katalog-2015-ok31.jpg",
+      "images/design/productCatalog2015/Katalog-2015-ok36.jpg",
+      "images/design/productCatalog2015/Katalog-2015-ok4.jpg",
+      "images/design/productCatalog2015/Salmo-katalog-2015-okladka.jpg"
     ],
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. At vero eos et accusamus et iusto odio dignissimos ducimus."
+    "description": "Lorem ipsum dolor sit amet..."
   },
   {
-    "slug": "outside-project-4",
+    "slug": "Product-Catalog-2016",
     "images": [
-      "linear-gradient(135deg, #89f7fe, #66a6ff)",
-      "linear-gradient(135deg, #ff6a00, #ee0979)",
-      "linear-gradient(135deg, #fbc2eb, #a6c1ee)",
-      "linear-gradient(135deg, #fccb90, #d57eeb)",
-      "linear-gradient(135deg, #ffecd2, #fcb69f)"
+      "images/design/productCatalog2016/2016-Salmo-katalog36.jpg",
+      "images/design/productCatalog2016/2016-Salmo-katalog37.jpg",
+      "images/design/productCatalog2016/2016-Salmo-katalog42.jpg",
+      "images/design/productCatalog2016/2016_0.jpg",
+      "images/design/productCatalog2016/2016_1.jpg",
+      "images/design/productCatalog2016/2016_2.jpg",
+      "images/design/productCatalog2016/2016_3.jpg",
+      "images/design/productCatalog2016/2016_4.jpg",
+      "images/design/productCatalog2016/2016_5.jpg",
+      "images/design/productCatalog2016/2016_6.jpg",
+      "images/design/productCatalog2016/2016_7.jpg",
+      "images/design/productCatalog2016/2016_8.jpg",
+      "images/design/productCatalog2016/2016_9.jpg"
     ],
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam."
+    "description": "Lorem ipsum dolor sit amet..."
   },
   {
-    "slug": "outside-project-5",
+    "slug": "Product-Catalog-2017",
     "images": [
-      "linear-gradient(135deg, #00c6ff, #0072ff)",
-      "linear-gradient(135deg, #f7971e, #ffd200)",
-      "linear-gradient(135deg, #ff9a9e, #fecfef)",
-      "linear-gradient(135deg, #84fab0, #8fd3f4)",
-      "linear-gradient(135deg, #667eea, #764ba2)",
-      "linear-gradient(135deg, #f6d365, #fda085)"
+      "images/design/productCatalog2017/Katalog2017.jpg",
+      "images/design/productCatalog2017/Katalog201712.jpg",
+      "images/design/productCatalog2017/Katalog201726.jpg",
+      "images/design/productCatalog2017/Katalog201728.jpg",
+      "images/design/productCatalog2017/Katalog201729.jpg",
+      "images/design/productCatalog2017/Katalog20173.jpg",
+      "images/design/productCatalog2017/Katalog201733.jpg",
+      "images/design/productCatalog2017/Katalog201734.jpg",
+      "images/design/productCatalog2017/Katalog20174.jpg",
+      "images/design/productCatalog2017/Katalog201741.jpg",
+      "images/design/productCatalog2017/Katalog201748.jpg",
+      "images/design/productCatalog2017/Katalog201749.jpg",
+      "images/design/productCatalog2017/Salmo-katalog-2017-ok.jpg"
     ],
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur."
+    "description": "Lorem ipsum dolor sit amet..."
   },
   {
-    "slug": "outside-project-6",
+    "slug": "Product-Catalog-2018",
     "images": [
-      "linear-gradient(135deg, #ffecd2, #fcb69f)",
-      "linear-gradient(135deg, #f6d365, #fda085)",
-      "linear-gradient(135deg, #89f7fe, #66a6ff)",
-      "linear-gradient(135deg, #84fab0, #8fd3f4)",
-      "linear-gradient(135deg, #a1c4fd, #c2e9fb)"
+      "images/design/productCatalog2018/2018_1.jpg",
+      "images/design/productCatalog2018/2018_2.jpg",
+      "images/design/productCatalog2018/2018_3.jpg",
+      "images/design/productCatalog2018/2018_4.jpg",
+      "images/design/productCatalog2018/Katalog-201810.jpg",
+      "images/design/productCatalog2018/Katalog-201811.jpg",
+      "images/design/productCatalog2018/Katalog-201827.jpg",
+      "images/design/productCatalog2018/Katalog-201828.jpg",
+      "images/design/productCatalog2018/Katalog-201829.jpg",
+      "images/design/productCatalog2018/Katalog-20183.jpg",
+      "images/design/productCatalog2018/Katalog-201833.jpg",
+      "images/design/productCatalog2018/Katalog-201834.jpg",
+      "images/design/productCatalog2018/Katalog-201838.jpg",
+      "images/design/productCatalog2018/Katalog-201839.jpg",
+      "images/design/productCatalog2018/Katalog-201841.jpg",
+      "images/design/productCatalog2018/Katalog-201845.jpg"
     ],
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos."
+    "description": "Lorem ipsum dolor sit amet..."
+  },
+  {
+    "slug": "Product-Catalog-2019",
+    "images": [
+      "images/design/productCatalog2019/Salmo2019_1.jpg",
+      "images/design/productCatalog2019/Salmo2019_online11.jpg",
+      "images/design/productCatalog2019/Salmo2019_online13.jpg",
+      "images/design/productCatalog2019/Salmo2019_online2.jpg",
+      "images/design/productCatalog2019/Salmo2019_online21.jpg",
+      "images/design/productCatalog2019/Salmo2019_online23.jpg",
+      "images/design/productCatalog2019/Salmo2019_online25.jpg",
+      "images/design/productCatalog2019/Salmo2019_online3.jpg",
+      "images/design/productCatalog2019/Salmo2019_online6.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet..."
+  },
+  {
+    "slug": "Product-Catalog-2020",
+    "images": [
+      "images/design/productCatalog2020/Salmo-USA-2020-soft_web.jpg",
+      "images/design/productCatalog2020/Salmo-USA-2020-soft_web2.jpg",
+      "images/design/productCatalog2020/Salmo-USA-2020-soft_web3.jpg",
+      "images/design/productCatalog2020/Salmo-USA-2020-soft_web4.jpg",
+      "images/design/productCatalog2020/Salmo-USA-2020-soft_web5.jpg",
+      "images/design/productCatalog2020/Salmo-USA-2020-soft_web6.jpg",
+      "images/design/productCatalog2020/Salmo-USA-2020_v2.jpg",
+      "images/design/productCatalog2020/Salmo-USA-2020_v213.jpg",
+      "images/design/productCatalog2020/Salmo-USA-2020_v214.jpg",
+      "images/design/productCatalog2020/Salmo-USA-2020_v215.jpg",
+      "images/design/productCatalog2020/Salmo-USA-2020_v218.jpg",
+      "images/design/productCatalog2020/Salmo-USA-2020_v22.jpg",
+      "images/design/productCatalog2020/Salmo-USA-2020_v220.jpg",
+      "images/design/productCatalog2020/Salmo-USA-2020_v23.jpg",
+      "images/design/productCatalog2020/Salmo-USA-2020_v29.jpg",
+      "images/design/productCatalog2020/Salmo_USA_2020_leaflet.jpg"
+    ],
+    "description": "Lorem ipsum dolor sit amet..."
   }
 ]

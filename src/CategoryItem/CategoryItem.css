@@ -3,9 +3,9 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 650px;
-    min-width: 450px;
-    margin: 12px;
+    height: 600px;
+    min-width: 400px;
+    margin: 24px;
     border-radius: 30px;
     overflow: hidden;
     background-size: cover;

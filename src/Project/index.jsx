@@ -9,7 +9,7 @@ export function Project() {
   const [currentIndex, setCurrentIndex] = useState(0);
 
   useEffect(() => {
-      fetch(import.meta.env.BASE_URL + 'project.json')
+    fetch(import.meta.env.BASE_URL + 'project.json')
       .then((res) => res.json())
       .then((data) => {
         const found = data.find((p) => p.slug === slug);
@@ -53,23 +53,38 @@ export function Project() {
       <p className="project-description">{project.description}</p>
 
       <div className="project-gallery">
-        {project.images.map((img, idx) => (
-          <div
-            key={idx}
-            className="project-image"
-            style={{ backgroundImage: img }}
-            onClick={() => openLightbox(idx)}
-          />
-        ))}
+        {project.images.map((img, idx) => {
+          let className = 'project-image';
+          if (idx % 7 === 0) className += ' large';
+          else if (idx % 5 === 0) className += ' wide';
+          else if (idx % 3 === 0) className += ' tall';
+          return (
+            <div
+              key={idx}
+              className={className}
+              style={{ backgroundImage: `url(${import.meta.env.BASE_URL}${img})` }}
+              onClick={() => openLightbox(idx)}
+              alt={`Project ${idx}`}
+              loading="lazy"
+            />
+          );
+        })}
       </div>
 
       {lightboxOpen && (
-        <div className="lightbox-overlay">
+        <div
+          className="lightbox-overlay"
+          onClick={(e) => {
+            if (e.target.classList.contains('lightbox-overlay'))
+              closeLightbox();
+          }}
+        >
           <button className="lightbox-close lightbox-interactive-element" onClick={closeLightbox}>×</button>
           <button className="lightbox-prev lightbox-interactive-element" onClick={prevImage}>‹</button>
           <div
             className="lightbox-image"
-            style={{ backgroundImage: project.images[currentIndex] }}
+            style={{ backgroundImage: `url(${import.meta.env.BASE_URL}${project.images[currentIndex]})` }}
+
           />
           <button className="lightbox-next lightbox-interactive-element" onClick={nextImage}>›</button>
         </div>

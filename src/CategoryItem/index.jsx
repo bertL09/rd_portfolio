@@ -13,7 +13,7 @@ export function CategoryItem({ title, imageUrl, link }) {
   return (
     <div
       className="category-item"
-      style={{ backgroundImage: imageUrl.startsWith('linear-gradient') ? imageUrl : `url(${imageUrl})` }}
+      style={{ backgroundImage: imageUrl.startsWith('linear-gradient') ? imageUrl : `url(${import.meta.env.BASE_URL}${imageUrl})` }}
       onMouseEnter={() => setIsHovered(true)}
       onMouseLeave={() => setIsHovered(false)}
       onClick={navigateToSubPage}

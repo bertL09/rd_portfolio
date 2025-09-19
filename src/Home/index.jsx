@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
 import { CategoryContainer } from "../CategoryContainer";
-import { CategoryItem } from "../CategoryItem";
 import { ContactMe } from "../ContactMe";
 import { Header } from "../Header/Header";
 
@@ -11,7 +10,9 @@ export function Home() {
     useEffect(() => {
         fetch(import.meta.env.BASE_URL + 'categories.json')
             .then((res) => res.json())
-            .then((data) => setCategories(data));
+            .then((data) => {
+                setCategories(data);
+            });
     }, []);
 
     return (
