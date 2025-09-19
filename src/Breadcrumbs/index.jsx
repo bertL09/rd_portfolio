@@ -8,7 +8,7 @@ export function Breadcrumbs() {
 
   return (
     <nav className="breadcrumbs">
-      <Link to="/">Home</Link>
+      <Link to="/rd_portfolio">Home</Link>
       {pathnames.map((name, idx) => {
         const routeTo = '/' + pathnames.slice(0, idx + 1).join('/');
         const isLast = idx === pathnames.length - 1;

@@ -9,7 +9,7 @@ export function Home() {
     const [categories, setCategories] = useState([]);
 
     useEffect(() => {
-        fetch("/categories.json")
+        fetch(import.meta.env.BASE_URL + 'categories.json')
             .then((res) => res.json())
             .then((data) => setCategories(data));
     }, []);

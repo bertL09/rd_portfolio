@@ -11,7 +11,7 @@ function App() {
       <div className="app-layout">
         <Breadcrumbs />
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/rd_portfolio/" element={<Home />} />
           <Route path="/gallery/" element={<Gallery />} />
           <Route path="/gallery/:id" element={<Gallery />} />
           <Route path="/gallery/:id/:slug" element={<Project />} /> 

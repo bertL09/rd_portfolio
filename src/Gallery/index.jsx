@@ -18,7 +18,7 @@ export function Gallery() {
     };
 
     useEffect(() => {
-        fetch("/gallery.json")
+      fetch(import.meta.env.BASE_URL + 'gallery.json')
             .then((res) => res.json())
             .then(addGalleryItems);
     }, [id]);

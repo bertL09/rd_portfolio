@@ -9,7 +9,7 @@ export function Project() {
   const [currentIndex, setCurrentIndex] = useState(0);
 
   useEffect(() => {
-    fetch("/project.json")
+      fetch(import.meta.env.BASE_URL + 'project.json')
       .then((res) => res.json())
       .then((data) => {
         const found = data.find((p) => p.slug === slug);
