@@ -42,11 +42,11 @@ export function ContactMe() {
   return (
     <div className="mainContainer contact-me-mainholder">
       <div id="contactMe" className="contact-me-container">
-        <div className="sub-page-title">{'constactMe'}</div>
+        <div className="sub-page-title">{'Contact Me'}</div>
         <input
           type="text"
           className="contact-me-input"
-          placeholder={'senderContact'}
+          placeholder={'Contact'}
           name="email"
           value={formData.email}
           onChange={handleChange}
@@ -54,7 +54,7 @@ export function ContactMe() {
         <textarea
           rows="4"
           className="contact-me-input"
-          placeholder={'yourMessage'}
+          placeholder={'Your message'}
           name="message"
           value={formData.message}
           onChange={handleChange}
