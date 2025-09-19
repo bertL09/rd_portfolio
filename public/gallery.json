@@ -1,0 +1,184 @@
+[
+  {
+    "title": "Work Project 1",
+    "imageUrl": "linear-gradient(135deg, #ff6b6b, #f79d65)",
+    "isGradient": true,
+    "category": "Work",
+    "link": "/Gallery/Work/work-project-1"
+  },
+  {
+    "title": "Work Project 2",
+    "imageUrl": "linear-gradient(135deg, #6a11cb, #2575fc)",
+    "isGradient": true,
+    "category": "Work",
+    "link": "/Gallery/Work/work-project-2"
+  },
+  {
+    "title": "Work Project 3",
+    "imageUrl": "linear-gradient(135deg, #f7971e, #ffd200)",
+    "isGradient": true,
+    "category": "Work",
+    "link": "/Gallery/Work/work-project-3"
+  },
+  {
+    "title": "Work Project 4",
+    "imageUrl": "linear-gradient(135deg, #00c6ff, #0072ff)",
+    "isGradient": true,
+    "category": "Work",
+    "link": "/Gallery/Work/work-project-4"
+  },
+  {
+    "title": "Work Project 5",
+    "imageUrl": "linear-gradient(135deg, #ff512f, #dd2476)",
+    "isGradient": true,
+    "category": "Work",
+    "link": "/Gallery/Work/work-project-5"
+  },
+  {
+    "title": "Work Project 6",
+    "imageUrl": "linear-gradient(135deg, #00b09b, #96c93d)",
+    "isGradient": true,
+    "category": "Work",
+    "link": "/Gallery/Work/work-project-6"
+  },
+  {
+    "title": "Work Project 7",
+    "imageUrl": "linear-gradient(135deg, #ff5f6d, #ffc371)",
+    "isGradient": true,
+    "category": "Work",
+    "link": "/Gallery/Work/work-project-7"
+  },
+  {
+    "title": "Work Project 8",
+    "imageUrl": "linear-gradient(135deg, #36d1dc, #5b86e5)",
+    "isGradient": true,
+    "category": "Work",
+    "link": "/Gallery/Work/work-project-8"
+  },
+  {
+    "title": "Work Project 9",
+    "imageUrl": "linear-gradient(135deg, #c33764, #1d2671)",
+    "isGradient": true,
+    "category": "Work",
+    "link": "/Gallery/Work/work-project-9"
+  },
+  {
+    "title": "Work Project 10",
+    "imageUrl": "linear-gradient(135deg, #5433ff, #20bdff, #a5fecb)",
+    "isGradient": true,
+    "category": "Work",
+    "link": "/Gallery/Work/work-project-10"
+  },
+  {
+    "title": "Work Project 11",
+    "imageUrl": "linear-gradient(135deg, #ee0979, #ff6a00)",
+    "isGradient": true,
+    "category": "Work",
+    "link": "/Gallery/Work/work-project-11"
+  },
+  {
+    "title": "Work Project 12",
+    "imageUrl": "linear-gradient(135deg, #56ccf2, #2f80ed)",
+    "isGradient": true,
+    "category": "Work",
+    "link": "/Gallery/Work/work-project-12"
+  },
+  {
+    "title": "Work Project 13",
+    "imageUrl": "linear-gradient(135deg, #42275a, #734b6d)",
+    "isGradient": true,
+    "category": "Work",
+    "link": "/Gallery/Work/work-project-13"
+  },
+  {
+    "title": "Work Project 14",
+    "imageUrl": "linear-gradient(135deg, #11998e, #38ef7d)",
+    "isGradient": true,
+    "category": "Work",
+    "link": "/Gallery/Work/work-project-14"
+  },
+  {
+    "title": "Work Project 15",
+    "imageUrl": "linear-gradient(135deg, #fc5c7d, #6a82fb)",
+    "isGradient": true,
+    "category": "Work",
+    "link": "/Gallery/Work/work-project-15"
+  },
+  {
+    "title": "Work Project 16",
+    "imageUrl": "linear-gradient(135deg, #833ab4, #fd1d1d, #fcb045)",
+    "isGradient": true,
+    "category": "Work",
+    "link": "/Gallery/Work/work-project-16"
+  },
+  {
+    "title": "Work Project 17",
+    "imageUrl": "linear-gradient(135deg, #12c2e9, #c471ed, #f64f59)",
+    "isGradient": true,
+    "category": "Work",
+    "link": "/Gallery/Work/work-project-17"
+  },
+  {
+    "title": "Work Project 18",
+    "imageUrl": "linear-gradient(135deg, #ff0099, #493240)",
+    "isGradient": true,
+    "category": "Work",
+    "link": "/Gallery/Work/work-project-18"
+  },
+  {
+    "title": "Work Project 19",
+    "imageUrl": "linear-gradient(135deg, #56ab2f, #a8e063)",
+    "isGradient": true,
+    "category": "Work",
+    "link": "/Gallery/Work/work-project-19"
+  },
+  {
+    "title": "Work Project 20",
+    "imageUrl": "linear-gradient(135deg, #2980b9, #2c3e50)",
+    "isGradient": true,
+    "category": "Work",
+    "link": "/Gallery/Work/work-project-20"
+  },
+  {
+    "title": "Outside Work Project 1",
+    "imageUrl": "linear-gradient(135deg, #ff9966, #ff5e62)",
+    "isGradient": true,
+    "category": "OutsideWork",
+    "link": "/Gallery/OutsideWork/outside-project-1"
+  },
+  {
+    "title": "Outside Work Project 2",
+    "imageUrl": "linear-gradient(135deg, #1e3c72, #2a5298)",
+    "isGradient": true,
+    "category": "OutsideWork",
+    "link": "/Gallery/OutsideWork/outside-project-2"
+  },
+  {
+    "title": "Outside Work Project 3",
+    "imageUrl": "linear-gradient(135deg, #f953c6, #b91d73)",
+    "isGradient": true,
+    "category": "OutsideWork",
+    "link": "/Gallery/OutsideWork/outside-project-3"
+  },
+  {
+    "title": "Outside Work Project 4",
+    "imageUrl": "linear-gradient(135deg, #36d1dc, #ff6b6b)",
+    "isGradient": true,
+    "category": "OutsideWork",
+    "link": "/Gallery/OutsideWork/outside-project-4"
+  },
+  {
+    "title": "Outside Work Project 5",
+    "imageUrl": "linear-gradient(135deg, #4568dc, #b06ab3)",
+    "isGradient": true,
+    "category": "OutsideWork",
+    "link": "/Gallery/OutsideWork/outside-project-5"
+  },
+  {
+    "title": "Outside Work Project 6",
+    "imageUrl": "linear-gradient(135deg, #0f2027, #203a43, #2c5364)",
+    "isGradient": true,
+    "category": "OutsideWork",
+    "link": "/Gallery/OutsideWork/outside-project-6"
+  }
+]

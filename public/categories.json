@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Work",
+    "imageUrl": "linear-gradient(135deg, #f06, #f79)",
+    "link": "/Gallery/Work",
+    "isGradient": true
+  },
+  {
+    "title": "Outside Work",
+    "imageUrl": "linear-gradient(135deg, #06f, #79f)",
+    "link": "/Gallery/OutsideWork",
+    "isGradient": true
+  }
+]
