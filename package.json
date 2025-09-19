@@ -1,16 +1,16 @@
 {
   "name": "rd_portfolio",
   "private": true,
-  
   "version": "0.1.0",
-  /bertL09/rd_portfolio
   "homepage": "https://bertL09.github.io/rd_portfolio",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
   },
   "dependencies": {
     "emailjs-com": "^3.2.0",
