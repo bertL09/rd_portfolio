@@ -1,14 +1,12 @@
 [
   {
-    "title": "Work",
-    "imageUrl": "linear-gradient(135deg, #f06, #f79)",
-    "link": "/Gallery/Work",
-    "isGradient": true
+    "title": "Design",
+    "imageUrl": "images/design/pressAdvertisements/Salmo-SS-1.jpg",
+    "link": "/rd_portfolio/Gallery/Design"
   },
-  {
-    "title": "Outside Work",
-    "imageUrl": "linear-gradient(135deg, #06f, #79f)",
-    "link": "/Gallery/OutsideWork",
-    "isGradient": true
-  }
+{
+  "title": "Art Beyond Screen",
+  "imageUrl": "images/artBeyondScreen/sculpturesFromTheShoreline/IMG_20200509_110803115_HDR.jpg",
+  "link": "/rd_portfolio/Gallery/ArtBeyondScreen"
+}
 ]
