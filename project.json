@@ -2,8 +2,6 @@
   {
     "slug": "Drawing-And-Painting",
     "images": [
-      "images/artBeyondScreen/drawningPainting/IMG_20140809_141319117.jpg",
-      "images/artBeyondScreen/sculpturesFromTheShoreline/IMG_20200509_110803115_HDR.jpg",
       "images/artBeyondScreen/drawningPainting/IMG_20150703_095955702.jpg",
       "images/artBeyondScreen/drawningPainting/IMG_20150704_105814114.jpg",
       "images/artBeyondScreen/drawningPainting/IMG_20150704_163549142.jpg",
@@ -21,7 +19,7 @@
       "images/artBeyondScreen/drawningPainting/IMG_5542.jpg",
       "images/artBeyondScreen/drawningPainting/IMG_5543.jpg"
     ],
-    "description": "Lorem ipsum dolor sit amet..."
+    "description": ""
   },
   {
     "slug": "Photography",
@@ -31,15 +29,26 @@
       "images/artBeyondScreen/photography/IMG_3290.jpg",
       "images/artBeyondScreen/photography/IMG_3718.jpg",
       "images/artBeyondScreen/photography/IMG_3985.jpg",
+      "images/artBeyondScreen/photography/nd-druk.jpg",
+      "images/artBeyondScreen/photography/119.jpg",
+      "images/artBeyondScreen/photography/359.jpg",
+      "images/artBeyondScreen/photography/365.jpg",
+      "images/artBeyondScreen/photography/IMG_2210.jpg",
+      "images/artBeyondScreen/photography/IMG_2332.jpg",
+      "images/artBeyondScreen/photography/IMG_6286-2.jpg",
+      "images/artBeyondScreen/photography/IMG_7088.jpg",
+      "images/artBeyondScreen/photography/IMG_7187.jpg",
+      "images/artBeyondScreen/photography/IMG_9875.jpg",
       "images/artBeyondScreen/photography/IMG_4285.jpg",
       "images/artBeyondScreen/photography/IMG_4292.jpg",
       "images/artBeyondScreen/photography/IMG_4297.jpg",
       "images/artBeyondScreen/photography/IMG_4304.jpg",
       "images/artBeyondScreen/photography/IMG_5473.jpg",
-      "images/artBeyondScreen/photography/IMG_9844.jpg",
-      "images/artBeyondScreen/photography/nd-druk.jpg"
+      "images/artBeyondScreen/photography/IMG_5473.jpg",
+      "images/artBeyondScreen/photography/hornet-2013.jpg",
+      "images/artBeyondScreen/photography/m7-all.jpg"
     ],
-    "description": "Lorem ipsum dolor sit amet..."
+    "description": ""
   },
   {
     "slug": "Sculptures-From-The-Shorline",
@@ -64,7 +73,6 @@
       "images/artBeyondScreen/sculpturesFromTheShoreline/IMG_20210819_171700671.jpg",
       "images/artBeyondScreen/sculpturesFromTheShoreline/IMG_20210819_171819075.jpg",
       "images/artBeyondScreen/sculpturesFromTheShoreline/IMG_20210819_171947782.jpg",
-      "images/artBeyondScreen/sculpturesFromTheShoreline/IMG_20210819_172049136.jpg",
       "images/artBeyondScreen/sculpturesFromTheShoreline/IMG_20210819_172335465.jpg",
       "images/artBeyondScreen/sculpturesFromTheShoreline/IMG_20210819_172508755.jpg",
       "images/artBeyondScreen/sculpturesFromTheShoreline/IMG_20220724_120144_261.jpg",
@@ -73,14 +81,7 @@
       "images/artBeyondScreen/sculpturesFromTheShoreline/IMG_5856.jpg",
       "images/artBeyondScreen/sculpturesFromTheShoreline/WB2_3.jpg"
     ],
-    "description": "Lorem ipsum dolor sit amet..."
-  },
-  {
-    "slug": "logo-torbolandia",
-    "images": [
-      "images/design/logoTorbolandia/Artboard_1.png"
-    ],
-    "description": "Lorem ipsum dolor sit amet..."
+    "description": ""
   },
   {
     "slug": "Press-Advertisements",
@@ -99,7 +100,7 @@
       "images/design/pressAdvertisements/SalmoTTW-2013-5.jpg",
       "images/design/pressAdvertisements/SalmoTTW-2016.jpg"
     ],
-    "description": "Lorem ipsum dolor sit amet..."
+    "description": "."
   },
   {
     "slug": "Product-Catalog-2011",
@@ -117,7 +118,7 @@
       "images/design/productCatalog2011/Salmo-katalog-20115.jpg",
       "images/design/productCatalog2011/Salmo-katalog-20116.jpg"
     ],
-    "description": "Lorem ipsum dolor sit amet..."
+    "description": "I was responsible for the entire concept and execution of the project. I single-handedly designed the graphic layout and selected the appropriate font, ensuring the pages were both readable and aesthetically pleasing. I also handled the full visual production, including taking professional product photos and performing all the necessary editing. The entire process, from preparing the files for printing to the final look, was my responsibility, which guaranteed consistency and high quality."
   },
   {
     "slug": "Product-Catalog-2013",
@@ -135,7 +136,7 @@
       "images/design/productCatalog2013/Salmo-katalog-20138.jpg",
       "images/design/productCatalog2013/Salmo2013-1.jpg"
     ],
-    "description": "Lorem ipsum dolor sit amet..."
+    "description": "I was responsible for the entire concept and execution of the project. I single-handedly designed the graphic layout and selected the appropriate font, ensuring the pages were both readable and aesthetically pleasing. I also handled the full visual production, including taking professional product photos and performing all the necessary editing. The entire process, from preparing the files for printing to the final look, was my responsibility, which guaranteed consistency and high quality."
   },
   {
     "slug": "Product-Catalog-2014",
@@ -156,7 +157,7 @@
       "images/design/productCatalog2014/Salmo-katalog-20145.jpg",
       "images/design/productCatalog2014/Salmo-katalog-20148.jpg"
     ],
-    "description": "Lorem ipsum dolor sit amet..."
+    "description": "I was responsible for the entire concept and execution of the project. I single-handedly designed the graphic layout and selected the appropriate font, ensuring the pages were both readable and aesthetically pleasing. I also handled the full visual production, including taking professional product photos and performing all the necessary editing. The entire process, from preparing the files for printing to the final look, was my responsibility, which guaranteed consistency and high quality."
   },
   {
     "slug": "Product-Catalog-2015",
@@ -175,7 +176,7 @@
       "images/design/productCatalog2015/Katalog-2015-ok4.jpg",
       "images/design/productCatalog2015/Salmo-katalog-2015-okladka.jpg"
     ],
-    "description": "Lorem ipsum dolor sit amet..."
+    "description": "I was responsible for the entire concept and execution of the project. I single-handedly designed the graphic layout and selected the appropriate font, ensuring the pages were both readable and aesthetically pleasing. I also handled the full visual production, including taking professional product photos and performing all the necessary editing. The entire process, from preparing the files for printing to the final look, was my responsibility, which guaranteed consistency and high quality."
   },
   {
     "slug": "Product-Catalog-2016",
@@ -194,7 +195,7 @@
       "images/design/productCatalog2016/2016_8.jpg",
       "images/design/productCatalog2016/2016_9.jpg"
     ],
-    "description": "Lorem ipsum dolor sit amet..."
+    "description": "I was responsible for the entire concept and execution of the project. I single-handedly designed the graphic layout and selected the appropriate font, ensuring the pages were both readable and aesthetically pleasing. I also handled the full visual production, including taking professional product photos and performing all the necessary editing. The entire process, from preparing the files for printing to the final look, was my responsibility, which guaranteed consistency and high quality."
   },
   {
     "slug": "Product-Catalog-2017",
@@ -213,7 +214,7 @@
       "images/design/productCatalog2017/Katalog201749.jpg",
       "images/design/productCatalog2017/Salmo-katalog-2017-ok.jpg"
     ],
-    "description": "Lorem ipsum dolor sit amet..."
+    "description": "I was responsible for the entire concept and execution of the project. I single-handedly designed the graphic layout and selected the appropriate font, ensuring the pages were both readable and aesthetically pleasing. I also handled the full visual production, including taking professional product photos and performing all the necessary editing. The entire process, from preparing the files for printing to the final look, was my responsibility, which guaranteed consistency and high quality."
   },
   {
     "slug": "Product-Catalog-2018",
@@ -235,7 +236,7 @@
       "images/design/productCatalog2018/Katalog-201841.jpg",
       "images/design/productCatalog2018/Katalog-201845.jpg"
     ],
-    "description": "Lorem ipsum dolor sit amet..."
+    "description": "I was responsible for the entire concept and execution of the project. I single-handedly designed the graphic layout and selected the appropriate font, ensuring the pages were both readable and aesthetically pleasing. I also handled the full visual production, including taking professional product photos and performing all the necessary editing. The entire process, from preparing the files for printing to the final look, was my responsibility, which guaranteed consistency and high quality."
   },
   {
     "slug": "Product-Catalog-2019",
@@ -250,7 +251,7 @@
       "images/design/productCatalog2019/Salmo2019_online3.jpg",
       "images/design/productCatalog2019/Salmo2019_online6.jpg"
     ],
-    "description": "Lorem ipsum dolor sit amet..."
+    "description": "I was responsible for the entire concept and execution of the project. I single-handedly designed the graphic layout and selected the appropriate font, ensuring the pages were both readable and aesthetically pleasing. I also handled the full visual production, including taking professional product photos and performing all the necessary editing. The entire process, from preparing the files for printing to the final look, was my responsibility, which guaranteed consistency and high quality."
   },
   {
     "slug": "Product-Catalog-2020",
@@ -272,6 +273,13 @@
       "images/design/productCatalog2020/Salmo-USA-2020_v29.jpg",
       "images/design/productCatalog2020/Salmo_USA_2020_leaflet.jpg"
     ],
-    "description": "Lorem ipsum dolor sit amet..."
+    "description": "I was responsible for the entire concept and execution of the project. I single-handedly designed the graphic layout and selected the appropriate font, ensuring the pages were both readable and aesthetically pleasing. I also handled the full visual production, including taking professional product photos and performing all the necessary editing. The entire process, from preparing the files for printing to the final look, was my responsibility, which guaranteed consistency and high quality."
+  },
+  {
+    "slug": "logo-torbolandia",
+    "images": [
+      "images/design/logoTorbolandia/Artboard_1.png"
+    ],
+    "description": ""
   }
 ]

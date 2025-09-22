@@ -6,12 +6,6 @@
     "link": "/rd_portfolio/Gallery/Design/Press-Advertisements"
   },
   {
-    "title": "Logo Torbolandia",
-    "imageUrl": "images/design/logoTorbolandia/Artboard_1.png",
-    "category": "Design",
-    "link": "/rd_portfolio/Gallery/Design/logo-torbolandia"
-  },
-  {
     "title": "Product Catalog 2020",
     "imageUrl": "images/design/productCatalog2020/Salmo_USA_2020_leaflet.jpg",
     "category": "Design",
@@ -39,7 +33,7 @@
   },
   {
     "title": "Product Catalog 2016",
-    "imageUrl": "images/design/productCatalog2016/2016_9.jpg",
+    "imageUrl": "images/design/productCatalog2016/2016_0.jpg",
     "category": "Design",
     "link": "/rd_portfolio/Gallery/Design/Product-Catalog-2016"
   },
@@ -57,7 +51,7 @@
   },
   {
     "title": "Product Catalog 2013",
-    "imageUrl": "images/design/productCatalog2013/Salmo-katalog-2013.jpg",
+    "imageUrl": "images/design/productCatalog2013/Salmo2013-1.jpg",
     "category": "Design",
     "link": "/rd_portfolio/Gallery/Design/Product-Catalog-2013"
   },
@@ -85,5 +79,11 @@
     "imageUrl": "images/artBeyondScreen/sculpturesFromTheShoreline/IMG_20200808_141908376_HDR.jpg",
     "category": "ArtBeyondScreen",
     "link": "/rd_portfolio/Gallery/ArtBeyondScreen/Sculptures-From-The-Shorline"
+  },
+    {
+    "title": "Logo Torbolandia",
+    "imageUrl": "images/design/logoTorbolandia/Artboard_1.png",
+    "category": "Design",
+    "link": "/rd_portfolio/Gallery/Design/logo-torbolandia"
   }
 ]
