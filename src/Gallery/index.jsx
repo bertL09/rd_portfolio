@@ -8,11 +8,8 @@ export function Gallery() {
     const [items, setItems] = useState([]);
 
     const addGalleryItems = (data) => {
-        console.log(data)
-        console.log(id);
         if (id) {
             const filtered = data.filter((element) => element?.category === id);
-            console.log(filtered)
             setItems(filtered);
         } else {
             setItems(data);

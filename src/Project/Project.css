@@ -12,14 +12,12 @@
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
   grid-auto-flow: dense;
-  /* wypełnia dziury */
   gap: 12px;
 }
 
 .project-image {
   width: 100%;
   aspect-ratio: 1 / 1;
-  /* bazowo kwadrat */
   background-size: cover;
   background-position: center;
   border-radius: 12px;
@@ -27,14 +25,16 @@
   cursor: pointer;
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   position: relative;
+
+  object-fit: cover;
+  object-position: center;
 }
 
-/* specjalne warianty */
+
 .project-image.large {
   grid-column: span 2;
   grid-row: span 2;
   aspect-ratio: 2 / 2;
-  /* większy kwadrat */
 }
 
 .project-image.wide {
@@ -52,7 +52,6 @@
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
 }
 
-/* Lightbox */
 .lightbox-overlay {
   position: fixed;
   inset: 0;
@@ -68,7 +67,6 @@
   max-width: 1000px;
   min-width: 600px;
   padding-top: 56.25%;
-  /* 16:9 ratio */
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;

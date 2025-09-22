@@ -1,5 +1,6 @@
 import { useParams } from "react-router-dom";
 import { useEffect, useState } from "react";
+import { ImageTile } from '../ImageTile/index.jsx'
 import './Project.css';
 
 export function Project() {
@@ -59,13 +60,12 @@ export function Project() {
           else if (idx % 5 === 0) className += ' wide';
           else if (idx % 3 === 0) className += ' tall';
           return (
-            <div
+            <ImageTile
               key={idx}
-              className={className}
-              style={{ backgroundImage: `url(${import.meta.env.BASE_URL}${img})` }}
-              onClick={() => openLightbox(idx)}
+              src={`${import.meta.env.BASE_URL}${img}`}
               alt={`Project ${idx}`}
-              loading="lazy"
+              className={className}
+              onClick={() => openLightbox(idx)}
             />
           );
         })}
