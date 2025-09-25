@@ -16,14 +16,12 @@
     "imageUrl": "images/design/productCatalog2019/Salmo2019_1.jpg",
     "category": "Design",
     "link": "/rd_portfolio/Gallery/Design/Product-Catalog-2019"
-
   },
   {
     "title": "Product Catalog 2018",
     "imageUrl": "images/design/productCatalog2018/2018_1.jpg",
     "category": "Design",
     "link": "/rd_portfolio/Gallery/Design/Product-Catalog-2018"
-
   },
   {
     "title": "Product Catalog 2017",
@@ -62,17 +60,10 @@
     "link": "/rd_portfolio/Gallery/Design/Product-Catalog-2011"
   },
   {
-    "title": "Drawning & Painting",
-    "imageUrl": "images/artBeyondScreen/drawningPainting/IMG_5514.jpg",
-    "category": "ArtBeyondScreen",
-    "link": "/rd_portfolio/Gallery/ArtBeyondScreen/Drawing-And-Painting"
-  },
-  {
     "title": "Photography",
     "imageUrl": "images/artBeyondScreen/photography/nd-druk.jpg",
     "category": "ArtBeyondScreen",
     "link": "/rd_portfolio/Gallery/ArtBeyondScreen/Photography"
-
   },
   {
     "title": "Sculptures from the Shoreline",
@@ -80,7 +71,13 @@
     "category": "ArtBeyondScreen",
     "link": "/rd_portfolio/Gallery/ArtBeyondScreen/Sculptures-From-The-Shorline"
   },
-    {
+  {
+    "title": "Drawning & Painting",
+    "imageUrl": "images/artBeyondScreen/drawningPainting/IMG_5541.jpg",
+    "category": "ArtBeyondScreen",
+    "link": "/rd_portfolio/Gallery/ArtBeyondScreen/Drawing-And-Painting"
+  },
+  {
     "title": "Logo Torbolandia",
     "imageUrl": "images/design/logoTorbolandia/Artboard_1.png",
     "category": "Design",
